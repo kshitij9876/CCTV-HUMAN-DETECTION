@@ -24,7 +24,9 @@ This Human detection model is made on deep learning model based on Yolo(You Only
 The dataset for this project is taken from the Kaggle website. Here is the link for the dataset,https://www.kaggle.com/datasets/jonathannield/cctv-human-pose-estimation-dataset.
 
 Here in the dataset you will find the various human images captured through CCTV cameras installed on various places.
-But the dataset is not suitable for training for Yolo model.So,first we annotate the data according to format provided by Yolo.You can refer to https://machinelearningknowledge.ai/train-custom-yolov4-model-for-object-detection-in-google-colab/ for custom data preparation.
+But the dataset is not suitable for training for Yolo model.So,first we annotate the data according to format provided by Yolo.
+We used LabelIMG to annotate image.
+You can refer to https://machinelearningknowledge.ai/train-custom-yolov4-model-for-object-detection-in-google-colab/ for custom data preparation.
 
 
 # Goal
