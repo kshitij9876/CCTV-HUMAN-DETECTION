@@ -50,5 +50,9 @@ In the notebook we have implemented various Yolov4 and latest released Yolov7 an
 
 ### This model performs much better than Yolov4 on distant objects
 
+# Training and Testing
+
+Training the model requires GPU.If GPU is not there then use google colab for training the model.Refer the yolo_model.ipynb file for detailed procedure of training and testing. 
+
 # Conclusion
 ### We have implemented two different approach Yolov4 and Yolov7 and, Yolov7 gives the best accuracy.
